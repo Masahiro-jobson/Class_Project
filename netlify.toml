@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/library_resouces.html"
+status = 200
