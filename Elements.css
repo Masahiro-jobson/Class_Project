@@ -118,17 +118,17 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    max-width: 450px;
+    max-width: 650px;
     margin: 0 auto;
 }
 /* Each box setting */
 .rbox{
-    width: 200px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     margin: 10px;
     border-radius: 25px;
     border: 3px solid lightgreen;
-    padding: 25px 10px ;
+    padding: 50px 60px ;
     /* To add initial state before animation */
     background-color: white;
     box-shadow: inset 0 0 0 0 #0cc0df;
@@ -148,7 +148,7 @@ body {
 
 .box-link{
     width: 120px;
-    padding: 5px 10px;
+    padding: 5px 10px ;
     border-radius: 50px;
     border: 2px solid #0cc0df;
     color: white;
